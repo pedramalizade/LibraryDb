@@ -1,0 +1,663 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\HW Week 13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|c:\\users\\asus\\source\\repos\\hw week 13\\hw week 13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|solutionrelative:hw week 13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|c:\\users\\asus\\source\\repos\\hw week 13\\hw week 13\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|solutionrelative:hw week 13\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|c:\\users\\asus\\source\\repos\\hw week 13\\hw week 13\\service\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|solutionrelative:hw week 13\\service\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|c:\\users\\asus\\source\\repos\\hw week 13\\hw week 13\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|solutionrelative:hw week 13\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|c:\\users\\asus\\source\\repos\\hw week 13\\hw week 13\\repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|solutionrelative:hw week 13\\repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|c:\\users\\asus\\source\\repos\\hw week 13\\hw week 13\\login register\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|solutionrelative:hw week 13\\login register\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|c:\\users\\asus\\source\\repos\\hw week 13\\hw week 13\\login register\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|solutionrelative:hw week 13\\login register\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|c:\\users\\asus\\source\\repos\\hw week 13\\hw week 13\\enum\\genreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|solutionrelative:hw week 13\\enum\\genreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|c:\\users\\asus\\source\\repos\\hw week 13\\hw week 13\\entitis\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|solutionrelative:hw week 13\\entitis\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|c:\\users\\asus\\source\\repos\\hw week 13\\hw week 13\\dbcontextt\\inmemorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|solutionrelative:hw week 13\\dbcontextt\\inmemorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|c:\\users\\asus\\source\\repos\\hw week 13\\hw week 13\\dbcontextt\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|solutionrelative:hw week 13\\dbcontextt\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|c:\\users\\asus\\source\\repos\\hw week 13\\hw week 13\\configs\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|solutionrelative:hw week 13\\configs\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|c:\\users\\asus\\source\\repos\\hw week 13\\hw week 13\\configs\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|solutionrelative:hw week 13\\configs\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|c:\\users\\asus\\source\\repos\\hw week 13\\hw week 13\\adminrepository\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|solutionrelative:hw week 13\\adminrepository\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|c:\\users\\asus\\source\\repos\\hw week 13\\hw week 13\\adminrepository\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|solutionrelative:hw week 13\\adminrepository\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241121220505_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW Week 13\\Migrations\\20241121220505_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|c:\\users\\asus\\source\\repos\\hw week 13\\hw week 13\\entitis\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|solutionrelative:hw week 13\\entitis\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|c:\\users\\asus\\source\\repos\\hw week 13\\hw week 13\\enum\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|solutionrelative:hw week 13\\enum\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120194640_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW Week 13\\Migrations\\20241120194640_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120194241_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW Week 13\\Migrations\\20241120194241_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120193936_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW Week 13\\Migrations\\20241120193936_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120193611_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW Week 13\\Migrations\\20241120193611_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120193507_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW Week 13\\Migrations\\20241120193507_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120193245_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW Week 13\\Migrations\\20241120193245_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120193050_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW Week 13\\Migrations\\20241120193050_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120192858_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW Week 13\\Migrations\\20241120192858_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120192735_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW Week 13\\Migrations\\20241120192735_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120192604_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW Week 13\\Migrations\\20241120192604_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120190639_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW Week 13\\Migrations\\20241120190639_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120185918_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW Week 13\\Migrations\\20241120185918_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120185743_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW Week 13\\Migrations\\20241120185743_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120185601_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW Week 13\\Migrations\\20241120185601_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120185424_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW Week 13\\Migrations\\20241120185424_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120185326_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW Week 13\\Migrations\\20241120185326_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120185106_finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW Week 13\\Migrations\\20241120185106_finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120184715_finis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW Week 13\\Migrations\\20241120184715_finis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120184233_Updteee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW Week 13\\Migrations\\20241120184233_Updteee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120182949_finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW Week 13\\Migrations\\20241120182949_finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|c:\\users\\asus\\source\\repos\\hw week 13\\hw week 13\\migrations\\20241121220729_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC216AB3-A538-4640-AFFA-0ADA4596CBDC}|HW Week 13\\HW Week 13.csproj|solutionrelative:hw week 13\\migrations\\20241121220729_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Service\\BookService.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Service\\BookService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Service\\BookService.cs",
+              "RelativeToolTip": "HW Week 13\\Service\\BookService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:23:19.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Service\\IBookService.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Service\\IBookService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Service\\IBookService.cs",
+              "RelativeToolTip": "HW Week 13\\Service\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:20:36.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Login Register\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Login Register\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Login Register\\IUserRepository.cs",
+              "RelativeToolTip": "HW Week 13\\Login Register\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:28:00.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Entitis\\User.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Entitis\\User.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Entitis\\User.cs",
+              "RelativeToolTip": "HW Week 13\\Entitis\\User.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:12:33.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Repository\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Repository\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Repository\\IBookRepository.cs",
+              "RelativeToolTip": "HW Week 13\\Repository\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:25:47.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserConfig.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Configs\\UserConfig.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Configs\\UserConfig.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Configs\\UserConfig.cs",
+              "RelativeToolTip": "HW Week 13\\Configs\\UserConfig.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:18:57.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InMemoryDb.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\DbContextt\\InMemoryDb.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\DbContextt\\InMemoryDb.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\DbContextt\\InMemoryDb.cs",
+              "RelativeToolTip": "HW Week 13\\DbContextt\\InMemoryDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:57:18.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Entitis\\Book.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Entitis\\Book.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Entitis\\Book.cs",
+              "RelativeToolTip": "HW Week 13\\Entitis\\Book.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:16:10.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenreEnum.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Enum\\GenreEnum.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Enum\\GenreEnum.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Enum\\GenreEnum.cs",
+              "RelativeToolTip": "HW Week 13\\Enum\\GenreEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:07:10.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Login Register\\UserRepository.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Login Register\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Login Register\\UserRepository.cs",
+              "RelativeToolTip": "HW Week 13\\Login Register\\UserRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:28:33.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Repository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Repository\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Repository\\BookRepository.cs",
+              "RelativeToolTip": "HW Week 13\\Repository\\BookRepository.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAswEcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:26:20.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Program.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Program.cs",
+              "RelativeToolTip": "HW Week 13\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:06:15.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\DbContextt\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\DbContextt\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\DbContextt\\AppDbContext.cs",
+              "RelativeToolTip": "HW Week 13\\DbContextt\\AppDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:50:31.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Configs\\BookConfiguration.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Configs\\BookConfiguration.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Configs\\BookConfiguration.cs",
+              "RelativeToolTip": "HW Week 13\\Configs\\BookConfiguration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:23:39.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\AdminRepository\\IAdminRepository.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\AdminRepository\\IAdminRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\AdminRepository\\IAdminRepository.cs",
+              "RelativeToolTip": "HW Week 13\\AdminRepository\\IAdminRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:31:34.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\AdminRepository\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\AdminRepository\\AdminRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\AdminRepository\\AdminRepository.cs",
+              "RelativeToolTip": "HW Week 13\\AdminRepository\\AdminRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:35:39.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20241121220729_init.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241121220729_init.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Migrations\\20241121220729_init.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241121220729_init.cs",
+              "RelativeToolTip": "HW Week 13\\Migrations\\20241121220729_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:07:29.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241121220505_init.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241121220505_init.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Migrations\\20241121220505_init.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241121220505_init.cs",
+              "RelativeToolTip": "HW Week 13\\Migrations\\20241121220505_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:05:06.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RoleEnum.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Enum\\RoleEnum.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Enum\\RoleEnum.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Enum\\RoleEnum.cs",
+              "RelativeToolTip": "HW Week 13\\Enum\\RoleEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:04:20.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241120194241_init.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120194241_init.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Migrations\\20241120194241_init.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120194241_init.cs",
+              "RelativeToolTip": "HW Week 13\\Migrations\\20241120194241_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:42:41.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241120194640_init.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120194640_init.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Migrations\\20241120194640_init.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120194640_init.cs",
+              "RelativeToolTip": "HW Week 13\\Migrations\\20241120194640_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:46:40.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241120193936_init.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120193936_init.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Migrations\\20241120193936_init.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120193936_init.cs",
+              "RelativeToolTip": "HW Week 13\\Migrations\\20241120193936_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:39:36.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241120193611_init.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120193611_init.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Migrations\\20241120193611_init.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120193611_init.cs",
+              "RelativeToolTip": "HW Week 13\\Migrations\\20241120193611_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:36:11.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241120193507_init.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120193507_init.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Migrations\\20241120193507_init.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120193507_init.cs",
+              "RelativeToolTip": "HW Week 13\\Migrations\\20241120193507_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:35:07.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241120193245_init.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120193245_init.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Migrations\\20241120193245_init.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120193245_init.cs",
+              "RelativeToolTip": "HW Week 13\\Migrations\\20241120193245_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:32:45.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241120193050_init.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120193050_init.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Migrations\\20241120193050_init.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120193050_init.cs",
+              "RelativeToolTip": "HW Week 13\\Migrations\\20241120193050_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:30:51.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241120192858_init.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120192858_init.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Migrations\\20241120192858_init.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120192858_init.cs",
+              "RelativeToolTip": "HW Week 13\\Migrations\\20241120192858_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:28:59.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20241120192735_init.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120192735_init.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Migrations\\20241120192735_init.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120192735_init.cs",
+              "RelativeToolTip": "HW Week 13\\Migrations\\20241120192735_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:27:35.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20241120192604_init.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120192604_init.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Migrations\\20241120192604_init.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120192604_init.cs",
+              "RelativeToolTip": "HW Week 13\\Migrations\\20241120192604_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:26:04.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20241120185424_init.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120185424_init.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Migrations\\20241120185424_init.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120185424_init.cs",
+              "RelativeToolTip": "HW Week 13\\Migrations\\20241120185424_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:54:24.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20241120185601_init.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120185601_init.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Migrations\\20241120185601_init.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120185601_init.cs",
+              "RelativeToolTip": "HW Week 13\\Migrations\\20241120185601_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:56:01.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20241120185743_init.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120185743_init.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Migrations\\20241120185743_init.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120185743_init.cs",
+              "RelativeToolTip": "HW Week 13\\Migrations\\20241120185743_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:57:43.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241120185918_init.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120185918_init.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Migrations\\20241120185918_init.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120185918_init.cs",
+              "RelativeToolTip": "HW Week 13\\Migrations\\20241120185918_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:59:19.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20241120190639_init.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120190639_init.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Migrations\\20241120190639_init.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120190639_init.cs",
+              "RelativeToolTip": "HW Week 13\\Migrations\\20241120190639_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:06:40.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20241120185326_init.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120185326_init.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Migrations\\20241120185326_init.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120185326_init.cs",
+              "RelativeToolTip": "HW Week 13\\Migrations\\20241120185326_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:53:26.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20241120185106_finish.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120185106_finish.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Migrations\\20241120185106_finish.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120185106_finish.cs",
+              "RelativeToolTip": "HW Week 13\\Migrations\\20241120185106_finish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:51:06.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20241120184715_finis.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120184715_finis.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Migrations\\20241120184715_finis.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120184715_finis.cs",
+              "RelativeToolTip": "HW Week 13\\Migrations\\20241120184715_finis.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:47:16.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20241120184233_Updteee.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120184233_Updteee.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Migrations\\20241120184233_Updteee.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120184233_Updteee.cs",
+              "RelativeToolTip": "HW Week 13\\Migrations\\20241120184233_Updteee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:42:33.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20241120182949_finish.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120182949_finish.cs",
+              "RelativeDocumentMoniker": "HW Week 13\\Migrations\\20241120182949_finish.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW Week 13\\HW Week 13\\Migrations\\20241120182949_finish.cs",
+              "RelativeToolTip": "HW Week 13\\Migrations\\20241120182949_finish.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:29:49.231Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
